@@ -2,6 +2,10 @@
 
 A responsive personal portfolio for Kevin V. Alcaide, a junior software engineer and IT student in the Philippines. The site presents professional background, skills, education, selected projects, and contact links in a single-page experience.
 
+## Live site
+
+Visit the portfolio: [portfolio-v2-iota-black-52.vercel.app](https://portfolio-v2-iota-black-52.vercel.app/).
+
 ## Features
 
 - Responsive portfolio sections for introduction, experience, education, skills, projects, and contact.
